@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Noto+Sans');
+* {margin:0; padding:0;}
+.section-margin {
+	margin-top:100px;margin-bottom: 100px;
+}
+.section-title {
+
+}
+.section-title  h2 {
+	color: #222222;font-family: 'Montserrat', sans-serif;text-transform: uppercase;font-weight: 700;
+}
+.section-title h2:after{content:'';width:15%;background-color:#36b9eb;height: 2px;display: block;margin:40px auto;}
+.header-area{background-image: url(img/slider-bg.jpg);background-size: cover;}
+.header-top{padding-top: 40px;padding-bottom: 40px;width: 100%;}
+.header-top a{}
+.header-top a img{}
+.mainmenu{}
+.mainmenu ul{}
+.mainmenu ul li{display: inline-block;list-style: none;}
+.mainmenu ul li a{color: #fff;font-size: 14px;text-transform: uppercase;padding: 9px 25px;display: block;font-family: 'Montserrat', sans-serif;}
+.mainmenu ul li a:hover{text-decoration: none;color:#ee2f1b;}
+.header-bottom{}
+.slider-area{margin-top: 150px;margin-bottom: 140px;}
+.single-slider{text-align: center;}
+.single-slider h2{color: #fff;font-family: 'Montserrat', sans-serif;text-transform: uppercase;font-size: 50px;font-weight: 700;line-height: 60px;}
+.single-slider h2:after{content:'';width:15%;background-color:#36b9eb;height: 2px;display: block;margin:50px auto;}
+.single-slider p{line-height: 30px;font-size: 20px;color: #cccccc;font-family: 'Noto Sans', sans-serif;}
+.service-area{}
+.single-service{}
+.service-logo{}
+.service-logo a{}
+.service-logo a img{margin-bottom: 40px;}
+.service-title{}
+.service-title h2{color: #222222;font-size: 16px;font-family: 'Montserrat', sans-serif;text-transform: uppercase;font-weight: 700;margin-bottom: 18px;}
+.service-content{}
+.service-content p{line-height: 22px;color: #888888;font-size: 14px;}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
