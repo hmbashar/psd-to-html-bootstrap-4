@@ -4,13 +4,16 @@
 .section-margin {
 	margin-top:100px;margin-bottom: 100px;
 }
+.section-heading{}
 .section-title {
 
 }
 .section-title  h2 {
 	color: #222222;font-family: 'Montserrat', sans-serif;text-transform: uppercase;font-weight: 700;
 }
-.section-title h2:after{content:'';width:15%;background-color:#36b9eb;height: 2px;display: block;margin:40px auto;}
+.section-after h2:after{content:'';width:15%;background-color:#36b9eb;height: 2px;display: block;margin:40px auto;}
+.heading-content{margin-top:35px;width: 60%;}
+.heading-content p {color:#777777;font-family: 'Noto Sans', sans-serif; font-size:16px;line-height: 28px;}
 .header-area{background-image: url(img/slider-bg.jpg);background-size: cover;}
 .header-top{padding-top: 40px;padding-bottom: 40px;width: 100%;}
 .header-top a{}
@@ -35,13 +38,21 @@
 .service-title h2{color: #222222;font-size: 16px;font-family: 'Montserrat', sans-serif;text-transform: uppercase;font-weight: 700;margin-bottom: 18px;}
 .service-content{}
 .service-content p{line-height: 22px;color: #888888;font-size: 14px;}
-.{}
-.{}
-.{}
-.{}
-.{}
-.{}
-.{}
+.expertice-area{background-color: #f7f7f7;}
+.section-footing{}
+.single-footing{}
+.expertics_left{margin-top: 100px;margin-left: 150px;}
+.footing-logo{}
+.footing-logo a{}
+.footing-logo a i {}
+.footing-title{}
+.footing-title a{}
+.footing-title a h2{}
+.footing-content{}
+.footing-content p{}
+.expertic-img{}
+.expertic-img a{}
+.expertic-img a img{width: 100%;}
 .{}
 .{}
 .{}
