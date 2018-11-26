@@ -1,11 +1,11 @@
-(function($) {
+( function ($){
 
 
-$('.slider-area').owlCarousel({
-  loop:true,
-	items:1,
-	autoplay: true,
-})
+	$('.slider-area').owlCarousel({
+  	  loop:true,
+  	  items:1,
+  	  autoplay:true,
+});
 
 
-})(jQuery);
+	})(jQuery);
